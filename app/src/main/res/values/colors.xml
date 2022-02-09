@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink_primary">#E40046</color>
+    <color name="button_selected_bottom">#616161</color>
+</resources>
